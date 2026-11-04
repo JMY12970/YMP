@@ -1,8 +1,3 @@
---[[
-    Fіle Dеоbfuѕсаtеd Usіng LеаκD
-    https://leakd.fr
-]]
-
 local players = game:GetService("Players")
 local runService = game:GetService("RunService")
 local userInputService = game:GetService("UserInputService")
